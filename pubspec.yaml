@@ -1,6 +1,6 @@
-name: debouncer
+name: easy_debouncer
 description: An easy-to-use method call debouncer package for Dart/Flutter.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Alfaizkhan/debouncer
 issue_tracker: https://github.com/Alfaizkhan/debouncer/issues
 repository: https://github.com/Alfaizkhan/debouncer

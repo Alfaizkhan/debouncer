@@ -1,4 +1,4 @@
-import 'package:debouncer/debouncer.dart';
+import 'package:easy_debouncer/easy_debouncer.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
